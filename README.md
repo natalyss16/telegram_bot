@@ -26,13 +26,13 @@ arg: название тикера
 
 `get_news_articles` и `get_news` показывает новости по выбранной компании
 
-args: название компании, количество дней
+args: название компании, количество дней (optional)
 
 default: 10 дней
 
 `get_prediction` предсказывает изменение цены акции с использованием модели [prophet](https://facebook.github.io/prophet/)
 
-arg: название тикера / favorite, количество дней
+arg: название тикера / favorite, количество дней (optional)
 
 default: 30 дней
 
