@@ -1,0 +1,8 @@
+pandas==1.2.1
+pystan==2.19.1.1
+ipydatetime==1.2.0
+prophet==1.0.1
+requests==2.25.1
+python-telegram-bot==13.5
+matplotlib==3.3.4
+yahoo-fin==0.8.8
