@@ -3,7 +3,8 @@
 
 [Ссылка на бот](https://t.me/HSE_stonks_bot)
 
-Использованные API: [Yahoo Finance](https://finance.yahoo.com/quotes/API,Documentation/view/v1/), [News API](https://newsapi.org/)
+Использованные API: [Yahoo Finance](https://finance.yahoo.com/quotes/API,Documentation/view/v1/) (использовали [библиотеку](http://theautomatic.net/yahoo_fin-documentation/)
+, работающую с Yahoo Finance API), [News API](https://newsapi.org/)
 
 `start_handler` функция приветствия
 
@@ -36,3 +37,8 @@ arg: название тикера / favorite, количество дней
 default: 30 дней
 
 `create_forecast_picture` создает график изменения цены акции
+
+# User journey:
+
+<img width="1149" alt="Снимок экрана 2021-05-16 в 12 44 48" src="https://user-images.githubusercontent.com/83905822/118392876-82989080-b644-11eb-917e-03157475212c.png">
+
