@@ -20,9 +20,6 @@ import datetime
 import requests
 from forecaster import *
 
-API_KEY_STOCKS = '7d15a0d24a2f5bd2efd71c393a73cfff'
-API_KEY_NEWS = 'd033c9b32e714768818a5da1e8c285c4'
-TOKEN = '1792902566:AAG_loiMwPNJutr_tYWXbCtRGfuOofFtLZA'
 IMAGES_PATH = 'Media/'
 CSV_PATH = 'Data/'
 
